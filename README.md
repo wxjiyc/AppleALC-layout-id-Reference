@@ -1,5 +1,5 @@
-# AppleALC--id-Reference
--id data for AppleALC.kext
+# AppleALC-layout-id-Reference
+layout-id data for AppleALC.kext
 
 | Vendor        | Model          | layout-id                                                           |
 | ------------- | -------------- | ------------------------------------------------------------------- |
