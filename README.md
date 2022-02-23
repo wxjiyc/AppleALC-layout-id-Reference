@@ -22,7 +22,7 @@ layout-id data for AppleALC.kext
 | Realtek       | ALC274         | 0x100004, 21                                                        |
 | Realtek       | ALC275         | 0x100005, 0x100008, 3, 13, 28                                       |
 | Realtek       | ALC280         | 3, 4, 11, 13, 15, 16, 21                                            |
-| Realtek       | ALC282         | 0x100003,     3, 4, 13, 22, 27, 28, 29, 41, 43, 51, 76, 86, 127     |
+| Realtek       | ALC282         | 0x100003, 3, 4, 13, 22, 27, 28, 29, 41, 43, 51, 76, 86, 127         |
 | Realtek       | ALC283         | 1, 3, 11, 15, 44, 66                                                |
 | Realtek       | ALC284         | 3                                                                   |
 | Realtek       | ALC285         | 11, 21, 31                                                          |
