@@ -2,6 +2,7 @@
 layout-id data for AppleALC.kext
 
 | 厂家       |    型号     |      id参数   | 
+| ---------------- | --------------------------------- | --------------------|
 | AnalogDevices    |    AD1984         |        0x100400, layout 11       |   
 | Realtek         |     ALC221          |               layout 11, 15      |          
 | Realtek         |     ALC225/ALC3253   |      layout 28, 30, 33           | 
